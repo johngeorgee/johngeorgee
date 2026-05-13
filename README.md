@@ -48,7 +48,7 @@ Live environmental visualization with hardware-software integration.
 
 - 💼 [LinkedIn](https://linkedin.com/in/john-george-019a69288)
 - 🐙 [GitHub](https://github.com/johngeorgee)
-- ✉️ [Your Email] (johngeorgeea@gmail.com)
+- ✉️ (johngeorgeea@gmail.com)
 
 ---
 
