@@ -8,12 +8,13 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 👨‍💻 About Me
 
-- 🎓 Engineering student focused on **Frontend Development & Software Engineering**
-- 🚀 I turn backend data into **clean, responsive dashboards** and polished web apps
-- 🔌 Love bridging the gap between **hardware (IoT sensors)** and **web platforms**
-- 🧠 Breaking down complex systems into simple, working solutions — that’s my jam
+- 🎓 Engineering student focused on **Full-Stack Development & Software Engineering**
+- 🚀 Building scalable web applications with **Angular, Node.js, Express.js, and .NET**
+- 🧩 Experienced in building **RESTful APIs, authentication, role-based authorization, and database-driven applications**
+- 📊 Passionate about turning complex business requirements into **clean, responsive, and practical solutions**
+- 🔗 Interested in building systems that connect **frontend, backend, databases, and real-world workflows**
 
 ---
 
