@@ -35,20 +35,20 @@
 
 ### 🌟 Standout Projects
 
-### Vendora — Sales & Inventory Management System
-**MEAN Stack | Angular | Node.js | Express.js | MongoDB**
+#### 🛒 Vendora
+> Full-stack Sales & Inventory Management System using **Angular + Node.js + Express.js + MongoDB**  
+ERP-style system with sales, inventory, purchases, products, customers, suppliers, orders, shipping, dashboards, analytics, authentication, and role-based authorization.  
+[View Repository](https://github.com/johngeorgee/Vendora)
 
-- Built a full-stack ERP-style system for managing sales, inventory, purchases, products, customers, suppliers, orders, and shipping.
-- Implemented JWT authentication, role-based authorization, and permission management.
-- Developed responsive dashboards and analytics with KPIs, inventory insights, reporting, search, filtering, pagination, and invoice printing.
-  
-#### 🎬 PopcornHub  
+#### 🎬 PopcornHub
 > Movie & TV web app using **Angular 17 + TypeScript + TMDB API**  
-Clean UI, dynamic content rendering, responsive browsing experience.
+Clean UI, dynamic content rendering, responsive browsing experience.  
+[View Repository](https://github.com/johngeorgee/movie-app-angular)
 
-#### 🌍 Smart City IoT Dashboard  
+#### 🌍 Smart City IoT Dashboard
 > Full pipeline: `sensors (CO₂, humidity, rain)` → backend/database → API → real-time frontend dashboard  
-Live environmental visualization with hardware-software integration.
+Live environmental visualization with hardware-software integration.  
+[View Repository](YOUR_SMART_CITY_REPO_URL)
 
 > 💡 *More projects on my [repositories](https://github.com/johngeorgee?tab=repositories)*
 
