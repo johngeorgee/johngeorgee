@@ -48,7 +48,7 @@ Clean UI, dynamic content rendering, responsive browsing experience.
 #### 🌍 Smart City IoT Dashboard
 > Full pipeline: `sensors (CO₂, humidity, rain)` → backend/database → API → real-time frontend dashboard  
 Live environmental visualization with hardware-software integration.  
-[View Repository](YOUR_SMART_CITY_REPO_URL)
+[View Repository](https://github.com/john1909m/Smart-City)
 
 > 💡 *More projects on my [repositories](https://github.com/johngeorgee?tab=repositories)*
 
