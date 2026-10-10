@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm John George</h1>
 <h3 align="center">Engineering Student | Frontend Developer | C# Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=johngeorgee&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 
